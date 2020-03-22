@@ -7,8 +7,8 @@ body{
 }
 
 .quem-somos {
-    background-color: lightgrey;
-    color: white;
+    background-color: white;
+    color: gray;
 
 }
 
@@ -19,4 +19,15 @@ body{
 
 .parceiros {
     background-color: lightskyblue;
+    color: gray;    
+}
+
+.servicos {
+    background-color: white;
+    color: gray;
+}
+
+.bg-footer {
+    background-color: aqua;
+    color: gray;
 }
