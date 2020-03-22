@@ -2,10 +2,17 @@
     background-color: aqua;
 }
 
+body{
+    font: 20px, Arial, sans-serif
+}
+
 .quem-somos {
     background-color: lightgrey;
+    color: white;
+
 }
 
 .margin {
     padding-top: 30px;
+    padding-bottom: 50px;
 }
