@@ -13,6 +13,10 @@ body{
 }
 
 .margin {
-    padding-top: 30px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parceiros {
+    background-color: lightskyblue;
 }
